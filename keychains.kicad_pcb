@@ -413,13 +413,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_6_3" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 85662911-74a2-4a64-88a1-574292cf2c2c)
+      (tstamp 1f5d4ae5-60a1-441f-89d0-4af0f963955d)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp e1b5e55d-0e87-44b4-8334-11cef6c264c7)
+      (tstamp 23419da8-d3e3-4d42-899c-2839d6b06402)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 563cb4f5-1db7-4552-9e87-400714825670))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 2cc651d7-0000-4bc2-a395-64b3f9fef369))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -443,13 +443,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_1_4" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp ea16a84a-ace0-4fc0-941e-f1d070b91bf9)
+      (tstamp 818ec4ff-f013-4cf5-98ef-3b59c5ead7da)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 8f61bf6a-72f1-4d35-9e79-06fc5df4cbf3)
+      (tstamp 9d5566ac-0ab3-4da4-9666-d86f8b8b1639)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 9d2fd8d2-d16b-435d-b588-637640069f76))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 9cebf44a-6f3a-4fb1-9e8c-18705a7f8d49))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -7181,13 +7181,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_3_2" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 5188373e-291f-40c6-8e5d-83994eb6c63e)
+      (tstamp 6b885aa0-1345-4a90-b367-a5353d273ac8)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 4593c542-5024-44ab-af95-44e5c85b20c9)
+      (tstamp 83f5fbd7-b6cc-48fc-9ea4-58c9e22e0310)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 84c5b0aa-e6e3-4876-bcaa-f36d59334d5b))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 5a7824aa-9410-4873-b71c-3edb38e55b22))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -7211,13 +7211,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_8_7" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 6230a5bf-1b82-406a-a2d9-1e7d1e4f6a02)
+      (tstamp bd45abae-22bc-4de5-a5ae-de0b40534473)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 48023a81-79a5-4fe7-80e2-f4576d39e538)
+      (tstamp 72b30282-e531-44f5-a311-615a4ee35448)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp e6dd1995-fab2-441b-b866-00fe0121e2d5))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp b9697d2d-9544-45db-81e1-7f5a9273584f))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -7233,21 +7233,6 @@
       (tstamp 5242e0f5-1f03-428c-b80e-6de326736616)
     )
     (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 876e7d4b-1557-4a03-9828-a02cf0a4dec9))
-  )
-
-  (footprint "NPTH" (layer "F.Cu")
-    (tstamp 1ddaa2f8-bdf1-4459-a53a-be30c8f4cffe)
-    (at 264.657743 78.175395)
-    (attr through_hole)
-    (fp_text reference "KiKit_MB_9_1" (at 0 0.5) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 8764871b-866a-4612-9364-0e6279b747dc)
-    )
-    (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
-        (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 460a12ec-d02e-4ae3-b97d-90afb758c74c)
-    )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 70d90408-4a6d-4f5d-b99c-ec2401a58119))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -7271,13 +7256,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_9_4" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 841a644d-06d1-43b2-b7c2-75db9462ff9e)
+      (tstamp 972ef57b-932b-4cdd-b36a-86858671033a)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 7487b4aa-2448-4f92-bc36-07372ba7c153)
+      (tstamp fe8ebed5-99c8-4937-86bf-f6e7980b4a01)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 575964e3-b1c9-4245-943e-a08e4367d491))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 7f71c8f8-758c-4e28-92a3-ca91dfc77981))
   )
 
   (footprint "LOGO" (layer "F.Cu")
@@ -14123,21 +14108,6 @@
   )
 
   (footprint "NPTH" (layer "F.Cu")
-    (tstamp 2967a932-1282-4aa0-a26c-d5e26999d92d)
-    (at 370.452714 78.175395)
-    (attr through_hole)
-    (fp_text reference "KiKit_MB_11_7" (at 0 0.5) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 8f9fc1d7-57ed-4fac-921c-e9337983ceb5)
-    )
-    (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
-        (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 2e17f5fa-debc-41f7-bf4d-14121a3bac82)
-    )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 1a0f3fce-ca1a-41d2-9f08-72bdcb31a7de))
-  )
-
-  (footprint "NPTH" (layer "F.Cu")
     (tstamp 2b0cdded-8977-41f0-af8b-e956582cb870)
     (at 234.736653 61.58)
     (attr through_hole)
@@ -20774,13 +20744,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_1_1" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 24f5ff41-ac94-45d7-921e-50d90e6b9c02)
+      (tstamp ebdc72b2-9ca7-4684-bfaa-2c7dc78c78e2)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 28047d12-f3f4-47a0-954e-bdb7c7868999)
+      (tstamp cdfb0590-1d74-44a9-a565-3d629cfe232c)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 85f4ed5c-3b66-4bf1-beed-60a35f995317))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 2e83bbf0-12b8-40c1-bb95-a43eea01707a))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -20849,13 +20819,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_5_7" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 0ecfa1e3-4614-4570-b79b-414986953e02)
+      (tstamp 92deec1a-ce5e-4d9d-a2c0-452a3417647a)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 798778ca-e90b-4058-bd5a-85b354befecd)
+      (tstamp 45e99783-32c2-4dc7-bc67-c807f96557bd)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 01d482d8-d8e9-4751-aeae-544e7330d64b))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 19ab8532-9733-4713-940d-1c7f0ed10848))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -20939,13 +20909,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_12_5" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 5e3ba59c-be20-426e-b401-e2aef7460878)
+      (tstamp 643fb7e6-e688-4575-ae12-47a18c8df242)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 2059d5cd-aeb9-487f-aedb-99189fbf540f)
+      (tstamp 784af20d-4de5-4dd3-be67-7252ea1e9383)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp e960db63-93de-4bfb-ad95-6d1ce1767774))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 25a488cb-665a-4379-9b44-73cf94e3440e))
   )
 
   (footprint "LOGO" (layer "F.Cu")
@@ -21555,13 +21525,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_11_2" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 89bf57c8-c2b3-4f24-98b7-716a7992da30)
+      (tstamp eefab90b-dd09-4de0-8a97-91149b3f6baa)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 53f44b24-d281-4714-9720-5f889dc4a7c5)
+      (tstamp bfc3ba5c-cbd7-43f5-afc9-c529dbfde2ec)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp ed3822e5-1438-43cf-8d2c-bc9aa0406250))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp bfcb94be-2620-4024-8279-5a95685de7c7))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -27892,13 +27862,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_9_3" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp d2a1651d-99b2-47ed-8bed-9db2c7bd6c29)
+      (tstamp 93d44c8e-f3ba-4236-a890-841fe7d5f052)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp ade033dc-f646-45ee-9390-c92297bd8421)
+      (tstamp 8ff3a608-950d-4739-96ec-0b25a1b9284b)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp d7715826-6e79-4c27-acda-08da9f651d55))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 85664fbf-e1c3-4a02-8497-2193032b2979))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -27952,13 +27922,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_12_1" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp c3ea0b85-975e-4a6c-93df-c424c0246a30)
+      (tstamp b1c1da06-99ed-4dc8-a53f-3eafe7467d99)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp a2da5890-98f7-42bf-95d5-d77f22ca0c8b)
+      (tstamp e98978cb-8b68-479d-a492-09533c4f1c2a)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 9bbeebd5-7477-4a5f-a6c6-2ccb0e473cb9))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp ebadbaa3-bec2-4b42-82b5-29f0c926fbfc))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -27997,28 +27967,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_6_3" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 8e3ba119-1ce6-403f-93d9-c8d66f62e048)
+      (tstamp b4568fb0-dd02-4b0a-8af3-5c8eb2f6e344)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 31a975c3-0e44-48ff-990e-40df32834da0)
+      (tstamp 8352da06-a2f5-4955-83dd-8001de931698)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp cf6cc2a2-b4e5-4434-8e11-0b4f9462067a))
-  )
-
-  (footprint "NPTH" (layer "F.Cu")
-    (tstamp 4474110f-587a-43ce-8d56-fb72a30e9398)
-    (at 264.657743 69.030801)
-    (attr through_hole)
-    (fp_text reference "KiKit_MB_10_1" (at 0 0.5) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 5268d624-3cfd-4035-b664-c694b3202ccf)
-    )
-    (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
-        (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 04284341-dbd4-4079-a97a-6ea9b3687b09)
-    )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 4f45e11b-7e33-4bb1-ac0f-1efec85ac895))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 787287b0-bd93-44a3-9a68-0ede5c16e5ac))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -28057,13 +28012,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_6_1" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp d21be133-07d9-4492-9d8f-f6647d64f3af)
+      (tstamp 037a7f87-1220-4bc3-8330-e8900da30742)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 311cd317-5b07-4c89-869b-19cc26d9df5f)
+      (tstamp cfa5cd59-1784-4f98-bcc0-985c1cbb8571)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp d0738c02-3475-403c-a964-19e4a4099fac))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 0ec125ae-0782-43f5-9084-0b5c0e9349cb))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -28072,13 +28027,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_5_1" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp b9bc055f-cd27-4362-a4b4-9abe50aa01cd)
+      (tstamp 56a390e8-d663-424e-b7e6-a023da23a3dc)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 8fe67afa-5d68-4085-8233-71e544fbe910)
+      (tstamp 414f7aeb-db2e-4294-96e6-5b59c6b617f4)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp ddbda6e9-90d3-47ae-8c37-363c17c28bf4))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 6c0990ac-dcff-4970-ad06-214b5b9f6cee))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -28364,13 +28319,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_4_1" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp e7f1e55d-bc93-4347-9ea6-e900bc6f55c7)
+      (tstamp 2e050401-6272-4d9d-80b3-911da796d187)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 56a3536c-3dd8-4619-9628-bdd588e8f332)
+      (tstamp a4afddbe-4d6f-418f-bcdc-f8358987b0fc)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 4629acb4-8c33-4c7a-b039-333057854df2))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 2cd3f85a-d20e-4be0-b5f2-2a810b81d270))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -28733,13 +28688,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_4_5" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp f8b6b091-cad7-42d8-9bb2-320757d16d6a)
+      (tstamp c785600d-556c-48b3-bc99-405dec7068b3)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp a06c7fc6-72e6-4812-a1f5-ce1920cc2ccf)
+      (tstamp 05aae9ce-97a4-4e20-a8de-3c74fd417557)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp fd8f8332-ff79-4185-9399-9cb625995716))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 182926ac-c37c-4a91-9ae6-a2d96d8dd873))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -28748,13 +28703,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_11_4" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp c83dcce9-aea6-4260-aabe-cb2df12c5a9b)
+      (tstamp c45bb892-05ea-47b7-af87-85a0a1560610)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 437bbef8-dd8c-401e-aad3-da6c7bf70047)
+      (tstamp 891c58ab-0b39-443c-8f4b-80c38d36b3cf)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp eea353eb-e543-43c0-8432-fb8056959ee5))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp a5401c31-e900-473b-9be9-bfe6a6a23a87))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -28763,13 +28718,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_11_1" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 52d7a1bb-c117-4ad7-b16c-9edd955664b6)
+      (tstamp bfe205a0-db32-4f35-a0e3-396d08e3b2f1)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 52a1aeac-6a27-4ffc-a775-4f04778dbaec)
+      (tstamp 0a6d1caa-133f-4805-bcc7-6226480c1469)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp ba496bbe-23b0-4263-9500-139e0fe4f41d))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp b3a4d800-7992-46a9-8614-825d33d91d76))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -28808,13 +28763,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_4_4" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp a0ed0617-9388-4648-b06e-10375ede13a8)
+      (tstamp 738e32b2-04b3-4448-aa96-e8a243da301e)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp d594285a-d567-4362-871b-d222d5e842cf)
+      (tstamp 7f7f4f2b-c513-4880-993c-e4fc8eeb3e6c)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 287a5450-cb14-4b6d-9875-19906bd27985))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 03c8e4d7-f1f4-4e27-8f5d-9736f1d86be2))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -28898,13 +28853,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_7_1" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp d65cb910-dcd0-4db5-849c-ee62a6de520f)
+      (tstamp 75ebf980-29b7-430c-9f5f-75be3ee41c04)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp a703e493-f1e5-457c-bff4-bd5b6ff38675)
+      (tstamp 8f0fa6d5-4266-4029-9662-43e2f91e14ee)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp ed63b722-b8bd-4468-89bd-7b42e2fbec45))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 6060f02e-7f02-46c5-8166-8a9330fe33f5))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -28968,21 +28923,6 @@
   )
 
   (footprint "NPTH" (layer "F.Cu")
-    (tstamp 5df2ccfe-c2b0-475b-8470-04df07be7385)
-    (at 264.657743 124.115937)
-    (attr through_hole)
-    (fp_text reference "KiKit_MB_10_1" (at 0 0.5) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp b794a6af-755e-46d6-a5ce-ac6846466c21)
-    )
-    (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
-        (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 9d21612e-b95a-4cb5-85bd-def384885577)
-    )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 15ea02d2-f529-42fa-be10-0e0bedaa9c10))
-  )
-
-  (footprint "NPTH" (layer "F.Cu")
     (tstamp 5e12b4fc-d469-4337-b1c9-58d8a612fa53)
     (at 349.717716 40.454263)
     (attr through_hole)
@@ -29018,13 +28958,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_10_4" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 11224375-5069-4d74-87ca-d09e98b3983a)
+      (tstamp 952d8141-5e5b-4c25-bcbc-042f0aaac262)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp f36a0da4-c1de-4cb3-8b19-ff1f923200e0)
+      (tstamp 555e9960-4906-406e-a2ab-d9b96a631552)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp e8510995-9022-4c7e-ade1-a0a3c4830c0f))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 456af146-fcea-410f-bfa2-e4800d8bad79))
   )
 
   (footprint "LOGO" (layer "F.Cu")
@@ -29295,13 +29235,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_2_2" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp fd9702d1-6318-4d16-8ef3-3b5c601bd186)
+      (tstamp c6f02b5a-d4e0-426f-8d6c-2b7aabb86b66)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 6e743ccf-9d1c-4ca6-820d-7ebfef14a81e)
+      (tstamp 9b490f60-0ed4-4fa6-8bfd-2dc423997bfd)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 71438809-3dc0-49b9-9cbe-f608d9b058c0))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 8c37b896-412d-4833-9108-a262f4642cbc))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -29310,13 +29250,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_1_3" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp bdc76a6e-7928-4fad-9258-3b0dafb39a96)
+      (tstamp 2bb444cd-94d5-402c-a603-b358911c0753)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 6e67ebee-3421-41f1-b029-32282612259c)
+      (tstamp 355f4aad-7c8b-4bde-9c42-6d7a4eedcc4e)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp ddc5a06b-2b6a-4eb2-b57f-fce7ef9cbf63))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 5edd3d00-5772-4895-b7cd-8c02be4dcc8d))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -29325,13 +29265,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_9_5" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp f5070dbd-8816-4a55-bd1a-ea4074398559)
+      (tstamp 7c2e9158-fc21-4643-93ab-2640df75fa67)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 6223d3cf-2ada-4e6c-9aa1-7cd5132808f3)
+      (tstamp bd7cc803-610c-4c2e-861d-34804df4ba5b)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 8784b7cd-6b41-4337-ac46-cd8b2e368c2b))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp bb26f869-d092-42b6-bf32-3c7065966349))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -29340,13 +29280,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_6_5" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 87217b4f-1b8a-47c7-934e-ab1909ee36ca)
+      (tstamp 4bbc8b21-ee5b-4145-bbda-795241328f45)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp ef3dd359-bde5-403d-8fe5-3be04087d465)
+      (tstamp 4ea55e2f-42e9-4a9d-80e6-203db707e77f)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp fe281369-5ec9-43a4-ad9f-de6c37e305bb))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp e15fb101-7f97-4ee3-acab-2eb99ee02bb4))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -29355,13 +29295,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_10_5" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 5ca5b75c-91a1-4ee7-b6fe-5e3e8afa23c4)
+      (tstamp 025492c5-b19a-420a-bcc8-67032f29fbc7)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 9ebda0ea-58cb-4940-a7af-b893560e059c)
+      (tstamp b09fd9b9-88a0-4093-96fc-79a5dba04708)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp b4360d39-b85c-4b8f-9677-4709c2000cbe))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 575ea5c5-b74c-46df-a628-61aca0b0091f))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -29400,13 +29340,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_8_4" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp ba9a0eb5-acdb-4b1b-9dd2-e77dba15666f)
+      (tstamp 530fb249-1f3c-401d-8505-e713774deb7d)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 82147809-4895-43fe-bf80-153db0b51595)
+      (tstamp cee02b52-4afd-4cb2-9a4e-fc5078a008ab)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 43245bec-17b0-4825-965a-98f6720662d7))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 83b962ab-4315-40ee-936c-efc9ee61adcb))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -29415,13 +29355,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_1_4" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 1f6c9cc7-f598-49f8-ba21-a38379ced03b)
+      (tstamp abfabefd-6c2a-490a-9b0c-04305ab39f72)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp a6caf713-7548-451e-b0e4-b071ef51d5f4)
+      (tstamp bf58eae9-60af-4361-9323-e88fe23c8108)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 00363f66-12d3-40e4-8b52-cdf3ea8ffc43))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 9c847498-c66f-4631-a897-46bef9a76972))
   )
 
   (footprint "LOGO" (layer "F.Cu")
@@ -35737,13 +35677,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_7_3" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 87aa9c49-bd16-4898-a84a-54bc75752545)
+      (tstamp 1235a216-38fd-4909-a223-7ffd7736592a)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp f8cff2d4-5de5-461a-8ec4-9de8c2764dae)
+      (tstamp 6492e312-306c-4c3e-a46c-250e10b4533b)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 58075fb8-6245-4474-98a4-04369e6cf42c))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 2ce8ab13-734f-4703-82c2-24789488799b))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -35752,13 +35692,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_7_7" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp c1acd9e9-a7c9-4947-96aa-970c6b194ac0)
+      (tstamp 6cf39238-07d7-4033-a0cd-b9d5c0f755b3)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 77c48ac6-d179-449a-b558-5bef4d00dc41)
+      (tstamp b9432e88-5c5b-466d-b6a0-73c5ad388132)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 32cdc6da-e254-4d37-b02d-1a9aa84d1b84))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 4bb81d8d-66ee-49b5-b230-b858a6191e46))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -35782,13 +35722,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_7_3" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 5c5c5823-8db1-42e2-a1a6-e2c8d54fc522)
+      (tstamp 10dd3640-a0ad-49f3-9dbe-8f24801cea8b)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp f50967c6-0d7f-47ce-92f9-3cc81bd90167)
+      (tstamp 4eeef982-b63d-454c-939b-9994081749d6)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 6f69c81d-bb25-476a-9020-9691885e277b))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 890074b2-e224-4989-8af7-76c6c586125a))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -35827,13 +35767,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_12_7" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp ebcfccd6-30fe-4500-bcab-d62d06b68f6a)
+      (tstamp 45ec72f0-7337-4c35-867f-35a58457fa9e)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 41421e04-0a23-431a-bce3-fbae1cd0f2c2)
+      (tstamp e862a4d4-25f9-4157-931e-0312a4427cb0)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp b5d31592-e245-440a-ae0a-2f78e3631f38))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp f0772200-2e4b-4cf5-847d-9b15ef69aafe))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -35842,13 +35782,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_5_5" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 1ee6f2fe-8cb2-4978-8abd-c06bf1635a93)
+      (tstamp 820508a2-24b3-40b9-a341-6d595937aa8e)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 50b90251-00e9-4e62-ba1b-3ec1d538dfb2)
+      (tstamp b0f3c118-25d0-4c72-8665-bb5c2edcba75)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp db21a672-a4b5-4d9d-9d6a-a6318dc9ecfc))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp d2dd0425-35f0-4fb0-8d7c-92c6eae1547c))
   )
 
   (footprint "LOGO" (layer "F.Cu")
@@ -36119,13 +36059,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_8_5" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 3d8b9244-e1a0-45ac-8c24-bc6ade1a8b3a)
+      (tstamp 88c5a19d-83d1-47d9-9940-f88ea4700518)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 9c1a0a4a-a06c-4e05-8c89-65fd4d9f2652)
+      (tstamp 06af3360-23a2-408c-85b1-c3ca96831768)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 2e2a39f0-8edd-4757-b69b-77ce7c914d7d))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 391e7753-65ec-46a5-9ba4-a42b355ca20e))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -36149,13 +36089,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_10_3" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp a8f83ed0-0d8b-4d35-9dfe-c39491b129c4)
+      (tstamp 37b21893-20ff-40c4-ae83-4d28a9a1cf53)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp d96b66bd-ec35-4efb-82b4-fa28bf6806d5)
+      (tstamp b76d7180-5573-4e58-b4d7-6d1bc99b7609)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp d267caa3-9262-4683-8e01-fa45ab4fd551))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 9d2e7a00-1b01-4555-8fc2-2c01303cdf2a))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -36209,13 +36149,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_4_1" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 6da2d6ac-1621-474b-855d-a796fd8758e2)
+      (tstamp da9c3c63-abbe-446c-82a2-c9e8bc566210)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp dc2351f7-7dc6-432b-b307-4b052623c0f6)
+      (tstamp 91b881d4-4c1d-475f-9f9a-dd1e337ebb69)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 77dff422-7b9b-4f15-9c65-7306f90b60b5))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 961a928a-b9ae-4ede-b394-ebacb1472093))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -36269,13 +36209,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_8_1" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 416152de-4ab0-4355-bb11-bcf7ff4ea202)
+      (tstamp 6116b30f-206e-437d-a3eb-fdb6fd1574ba)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 5bac6255-2741-4dc3-a3b5-e464d2ac31b8)
+      (tstamp f28168fc-d23d-428d-8214-dce734f12566)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp f009844b-892b-43d4-bf0a-75ef42845a7b))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 2b3f464d-f722-46f9-915e-956bef8f57f3))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -36284,13 +36224,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_7_4" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp de0d7b9b-429f-4fee-8f4d-8486d7dfbb2b)
+      (tstamp 83468544-7d0a-4a0d-8c16-842df57f764d)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 498bbfc9-b53c-46ab-a4a1-55332f809aeb)
+      (tstamp f4fe1776-b014-47b3-8e05-4d90b2c6aced)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 346a1699-f354-4f0c-87ef-732a307d4043))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 5d7e84bd-7752-424b-8751-9b0b9692bfba))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -36299,13 +36239,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_9_5" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 28d15dba-a15a-4c65-84ca-0a5eff15838e)
+      (tstamp 00efdbf6-7297-48b1-abf9-288c22a8bc05)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 07b81922-5009-4ead-b3a4-dc821622c204)
+      (tstamp 172ce33f-0a92-4b24-bd2c-ad8d4f6b28ed)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 44d7d3d1-b5d9-40f0-8100-19d7945a04b2))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp ead0a413-1b59-4d5b-9961-d4e3b4bc5c80))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -36314,13 +36254,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_4_3" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 1d685e0f-caca-43a9-a3e4-ea1ef949c768)
+      (tstamp 0b06049a-dca4-47af-bd72-20ab7abf39f0)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 811e78c7-6e5f-4b6a-a93d-fb7abafd2061)
+      (tstamp 0cf49e77-8da1-4f69-b321-153ad0f6f087)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 93eb22d0-c56b-4cb8-bb20-f39e92cb3a0f))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp ca1cabee-92a9-426a-8a0b-1bd616d5b9b9))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -36329,13 +36269,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_2_2" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp e286a7ad-6c3f-4d83-bf6a-512adb6e1e70)
+      (tstamp d80f452b-6fb9-406c-a67a-ebad19e3413a)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp f1b462f4-991a-4e28-ad19-901359c98cfb)
+      (tstamp 40ea2b41-e095-4262-b804-00345f7b4f7a)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 2a01e689-ad06-41b4-a57b-9ff881d2f1bd))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp c6442eb7-9444-41e5-9cc3-1ac7651601f0))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -36344,13 +36284,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_1_2" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 140e9bf2-5a33-4eb6-bed8-10dff54f07ae)
+      (tstamp f4b2e4df-5db5-4932-a756-dc356dc888d1)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp c0c48c50-6923-4308-8364-7536aee58219)
+      (tstamp 7aaf769b-2457-4b89-a3d0-dcfe0ee289e6)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp e57645b2-c23f-4fe4-a954-14fd4d2a792a))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp a2634828-2dcf-469d-8a30-c8dc68704939))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -36359,13 +36299,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_8_6" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp add48ec6-c510-467f-b5fe-989b0764f55c)
+      (tstamp f7f6e246-c2d9-4801-8e79-3ca6b8ec9e5a)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp e6bc57cf-6e46-4b46-b12b-811bb1be4c7e)
+      (tstamp 734fbb0c-232d-42f4-a98b-1cf464020635)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp f895108e-0b13-4bff-bc74-95da98aed2ef))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 70a98809-a602-4656-b043-90bbb0728da8))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -36404,13 +36344,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_8_3" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp fcea0d91-d487-4ae4-b2c1-54a59a15b0c4)
+      (tstamp ac540248-1404-4d44-b717-c32d771c09aa)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 53189ebe-770a-4bd5-b907-5a6a6bc05d64)
+      (tstamp c88e51ec-7f64-4efb-819a-b8af948197d6)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp e2369db5-5d6b-4832-92ca-a1222d926984))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 9cbb3295-9b44-4d15-a649-243d607e4bbb))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -36464,13 +36404,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_10_6" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 77da110a-cf09-41c3-9783-1c76577fadc1)
+      (tstamp 51d17b6c-c283-4b57-b8cd-8a5f563531f5)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 790b3cf5-cfa6-4581-9390-5dcacf6eadf0)
+      (tstamp f997a70f-ec83-4624-b951-5e7d21253eae)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp e1a8dd49-605e-48ec-99d5-459f70f71d32))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp fbed265a-c81d-43e8-aa61-78d5d215e651))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -36509,13 +36449,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_6_2" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 6f4db72d-2bb9-4a65-afc2-9bf24e776aa8)
+      (tstamp ec436d40-0a9a-4545-a959-7d858dcbb0ac)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 2c72f7c0-47aa-4e38-a2af-4be151a9c278)
+      (tstamp 979a71cc-95e7-4743-84a6-522af87db2a3)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 5a5a9960-b451-469b-b2fa-892697cae462))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp a224a93b-e895-48ce-937d-c7246e6d9bb8))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -36539,13 +36479,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_3_3" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp a5eb644c-520b-4eb3-a3ce-3d0d08a4ea36)
+      (tstamp de467142-543a-4885-b34d-6e70af3af7ec)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 62ac69a7-e3ae-41c6-955f-5526ca14fcb0)
+      (tstamp f7506a9b-b17c-4754-95f9-c9af503a7058)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 916e0dac-855a-4a1b-a1b2-ad69bca024c0))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp bb26abb3-e3de-4538-8d82-ac2f4d20b7fb))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -36569,13 +36509,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_5_6" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 5f176617-f7dc-426e-af89-d253eff7e2c7)
+      (tstamp 2c32f8be-f05b-4907-9265-8574959badd1)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp cdb80808-044e-41d4-bc14-3a2a34fa6147)
+      (tstamp d361047c-f13b-4279-8aa5-dd7f32d21cf9)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp dd440b47-4df0-4aeb-a0f7-41f639f1c083))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 72c34e4d-7e4b-4b5e-ab0d-de8a2dad5350))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -36584,13 +36524,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_11_5" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 462d9a47-cfb1-4860-95a6-966ccce73c7f)
+      (tstamp 3b5b3fdf-b006-4819-afd7-71c0185e1306)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 1d965696-994d-4280-a026-cb4ec43c4678)
+      (tstamp 3d876036-1aa1-46c5-9ebe-e570bf0f4033)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp e570def6-b3ff-49ba-8cd2-2d9e9dd8d2b4))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp f29c9f70-1b12-41c5-b7dc-024777a048aa))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -36599,13 +36539,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_4_2" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 6bcacca0-0a60-4033-b6d3-ee6046186758)
+      (tstamp ea4a39c3-28c3-448b-8fca-415d4cb442f9)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 1d2b0304-0994-4c96-b24d-73ab60873e97)
+      (tstamp 87d168cc-3f1c-4688-8326-de2a67f9b5c0)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp f496b622-037d-44fd-b4d4-2e425056bb62))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp c60c7299-1d3d-4547-be29-8e41e7581396))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -36614,13 +36554,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_10_6" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp d3eafa06-4109-4dee-a977-31e7c92d2998)
+      (tstamp 96db5d60-0e60-4102-9976-ad6838117e55)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 1a402a8b-e620-43db-8eb8-d3b2d6e5430e)
+      (tstamp 80c35985-bdc1-4e2f-a805-8bd76c8fdaeb)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 2bf6f57e-85c0-4411-9d31-61a0a71edc5d))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 91b3261a-f0e5-4392-b35f-22e0bab071bf))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -36629,13 +36569,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_9_1" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 8764871b-866a-4612-9364-0e6279b747dc)
+      (tstamp d5134396-4dca-4127-85a8-c4cea39b0c3d)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 460a12ec-d02e-4ae3-b97d-90afb758c74c)
+      (tstamp 1ed84aca-f3b7-40a3-80b2-9af93e98fdd5)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 70d90408-4a6d-4f5d-b99c-ec2401a58119))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 0c8e1ce0-f6b2-4750-b857-ad8fa03e43ca))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -36644,13 +36584,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_5_4" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 7da8ed3b-c07d-47d5-856c-9c7f6d322bc3)
+      (tstamp a0751b6e-a13a-40ab-9153-da3d20eaff3b)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 9a482b43-5951-4f78-a18a-cb03ae6682f1)
+      (tstamp b7c154c6-9e21-40ec-9b50-459eee4b10a8)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 60420422-09b6-455e-bbfe-b041cc82d94f))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp c610820e-d7f1-4eaf-a0db-13e29f67f5c0))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -36689,11 +36629,11 @@
     (attr board_only exclude_from_pos_files exclude_from_bom)
     (fp_text reference "G***" (at 0 0 45 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1.5 1.5) (thickness 0.3)))
-      (tstamp 2b015d76-c652-44c5-ab53-3b096dad60fd)
+      (tstamp 5946a1a0-15ad-4f11-a9bd-6cc5a7d3c9d6)
     )
     (fp_text value "LOGO" (at 0.75 0 45 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1.5 1.5) (thickness 0.3)))
-      (tstamp 93f61713-c0a9-42ff-91e3-4385bc3ceffa)
+      (tstamp 85633b05-e9f8-48bf-be27-5d8837ae9c40)
     )
     (fp_poly
       (pts
@@ -36719,7 +36659,7 @@
         (xy 2.58114 -1.000404)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS") (tstamp d849dfc2-c2d0-4153-b3da-bf414ce2c28b))
+      (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 8f5c1c64-7e74-4663-a155-3c73dbc1eb1c))
     (fp_poly
       (pts
         (xy -2.040331 -0.868414)
@@ -36746,7 +36686,7 @@
         (xy -2.585141 -0.972811)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 9ba833f4-2d29-4f7d-94b2-e7fcc8abb3bb))
+      (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 1a9df9ea-9761-4903-81fb-079477de41e2))
     (fp_poly
       (pts
         (xy -4.890663 -11.749748)
@@ -36942,7 +36882,7 @@
         (xy -5.989627 -11.872319)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 76933be6-1522-458c-99ba-700b0d71aaee))
+      (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 95f2fabf-29ef-433c-b012-92932a63c00c))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -37180,13 +37120,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_9_4" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 19ee572e-02d6-4e9b-8695-949de4847c9a)
+      (tstamp 29556fb6-e5a8-4ca4-8dec-6d48cc8b2687)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 0fda5f12-effb-4737-9a5f-5dabbb48a135)
+      (tstamp c17c790c-3886-4148-8957-bbbb360aafb3)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 7e914570-2dc1-4bf7-99f9-5a69f347090a))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp dd2ba4f1-1ae5-427b-941e-1a275284b41b))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -37195,13 +37135,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_10_2" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp ccc5a6d7-4ce1-4773-9972-5dacd89963b8)
+      (tstamp 36e23508-4ab6-409a-87b2-a7fb4c919e1f)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp a2fac698-9f8a-4851-aa57-35d20e58f77f)
+      (tstamp e7332ec5-22d3-459e-9953-f8ee26254c1d)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp ff262963-5515-4aa2-9b63-c5dddd85766e))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 6226095d-22ed-4ff8-bf17-792b1af29f17))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -37270,13 +37210,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_11_6" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp e0499791-60f9-46f7-ae28-48a20261e307)
+      (tstamp 6e229979-53d9-4ba4-8e4c-e3472129ab29)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 9f03c1c6-0ccc-4e5e-812b-a72a36848697)
+      (tstamp ec63a0c2-ab9a-46f8-9ccb-f535ef0af9c8)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp f4ea6124-3c18-4b1c-af41-ef7e243e4754))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp d6883078-6085-4fb9-9770-28042f93f1ab))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -37300,13 +37240,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_10_7" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 0b13aa7e-f43d-49bf-909d-3c684d130898)
+      (tstamp 003c339d-89b4-4bab-a572-fcb282a0c1bd)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 3918cf4d-d908-4e76-b42c-2baf8f1f9bb3)
+      (tstamp 5c8846b7-6872-4e9a-ac88-a29a42888a0c)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp c3d415e1-6216-4e09-aaf5-b98577df4f5b))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 6dcc981b-a29f-40c1-9623-4f1779555732))
   )
 
   (footprint "Fiducial" (layer "F.Cu")
@@ -37332,13 +37272,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_9_3" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 458b5d66-5663-4761-b269-81029faf2844)
+      (tstamp 63cf4589-bd1d-4610-8a95-0ef67f42c6db)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp b3e9520c-2ad4-4430-a890-b6085efe07a1)
+      (tstamp 7f58379d-4a0f-4e23-8827-a2ad4d4ce07e)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 874fb010-6e9e-4f8e-b853-1092c707b714))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 48eb254c-e706-469a-bfc9-886f3ae9d4e3))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -37347,13 +37287,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_11_1" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp c207d5ad-ba3d-42c9-aa31-690ba8140ad3)
+      (tstamp 27d5db9e-c0ce-4165-96d4-e654ac62c42c)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 262c976f-5634-440d-b34d-5a4fa15af241)
+      (tstamp 47cefff0-2b13-40b4-9b14-241b0d938978)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp f1e713f2-2a5f-4233-9f9d-64243a836e8b))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp c081d8a3-d583-4949-97cc-4ef707302f7a))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -37362,13 +37302,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_4_4" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 11be38e1-1b13-4121-b4e5-ec740f8cedf3)
+      (tstamp db97fb5e-d6ae-4918-b081-7f9e68c484c0)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 9af3c7ff-ee0f-4080-9b3a-1074cf54747e)
+      (tstamp a6d0b07d-e322-424c-ac63-9913de53b9a8)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp e18f19fe-c024-4e92-bf72-d9e79d25dc38))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp f777a314-1849-4542-8107-f816e71fb0f0))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -37377,13 +37317,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_3_4" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp d71d76b1-cc4c-4b11-a009-37871c8c79aa)
+      (tstamp 2653c88f-26de-49e1-bed9-db2ec85de18c)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp ee973a51-027e-4f75-9df5-4716b25a75d5)
+      (tstamp c82ee786-7478-443d-9033-671e458f75ad)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp d9e63ada-daca-4787-a98c-3113234dc49a))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 604df2aa-b91a-4a4c-98f4-5f19695173d5))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -37392,13 +37332,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_3_4" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 711d52b7-3bd1-425c-b175-9fd23b8326e9)
+      (tstamp 7b47b1dd-8a07-478d-afda-1dd709b62b20)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 9a43b9f3-0fa9-4f40-be1b-5db6b791f8dc)
+      (tstamp 4194613d-17ec-4f66-acb1-2706a360604d)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp b0f035c4-dfe7-4f32-9186-d4479f703c8d))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 00329eb2-88e5-400b-8c3b-151f911da152))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -37422,13 +37362,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_10_2" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 9385de2d-76ee-4c59-9a63-01a541490c63)
+      (tstamp c84ba3c2-d440-4219-9f67-2d26141cb831)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp b0c78309-c195-4591-b224-d8c1134103a0)
+      (tstamp abca5d51-d07e-4405-93b2-59697b3ee036)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 2bf629a7-004c-447e-81a9-d2ac2295cf6c))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 882ba475-d1cc-4519-a884-706b3273f085))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -37452,13 +37392,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_7_2" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp a285d604-30f3-42f6-b844-176c0ec0ff32)
+      (tstamp eade12c5-0181-4fc3-a42a-4647244ca622)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 5ad49731-d8ea-4c66-a369-2403b52fe78f)
+      (tstamp fe41b6e5-8116-4895-8a41-9091bc6aa5c4)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp bad44214-f0f4-47a4-87af-393fe0f70e22))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp fccf4485-98a4-4add-a625-bb5973378697))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -37482,13 +37422,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_7_6" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 8ab0339a-8032-427b-8f6c-03b3b6f07b6c)
+      (tstamp 6b0cde07-9d32-475b-a593-165987032457)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp f884b10c-4de4-49c5-b494-9ca0bdbc7ac9)
+      (tstamp 364b15c7-7e40-40b8-904c-630752c32604)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 8e92ae1c-b85f-4658-8009-e150ecbe9e8d))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 3a3d9b3b-aa81-4efe-9ae4-f95f3f62fd05))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -37527,13 +37467,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_3_3" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp ad5fe838-8472-4cb4-a537-81f059d089b8)
+      (tstamp 7bcafbfc-1c82-4707-987f-74c8f448e43f)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 4d24c9f5-fb5f-4435-8af1-9aeab5b12bbe)
+      (tstamp 66c8b292-cea0-432f-ac9f-aea98e1dcc57)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 5c2b901e-9ab8-4637-8ec9-7a614fa72fd1))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 37f53eac-fb37-4fe1-b054-09fbb71b7f7d))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -37542,13 +37482,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_12_5" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 1841283d-984a-44fb-a2b2-da3538cc1c94)
+      (tstamp cd66dd45-a6c5-4d14-b924-2f3b63e5b76f)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 8f3c80f9-52e6-40b4-8f84-e9e645992ee2)
+      (tstamp 27293e8f-5df5-4a71-9de5-74fb79aeb6a3)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp b146afe9-1928-4445-8080-b22b3c3241da))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 1eaab657-00bd-4544-afb2-36f81df71b9f))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -37557,13 +37497,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_11_4" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 17a954eb-f54e-4d8d-847a-cf15a502ba5d)
+      (tstamp f269b9bc-0d02-43d7-bd3d-818e9e411aaa)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 73e75a9c-e123-409e-8c29-9cc15c811746)
+      (tstamp a45c8ac0-ffaa-4d03-b1a8-19334b3b3332)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 23c0374d-565a-40dc-b1d6-11f990a7d7de))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp c81dc8b8-73be-4513-905c-8bcb7a38ddb4))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -37572,13 +37512,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_7_5" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp ecd1075c-3803-448c-9f49-364947529d06)
+      (tstamp b5bcf36b-0c47-4fbb-97ff-9f5a38fd43aa)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp c401cd62-5513-49d0-aa0f-45eec19bb32d)
+      (tstamp 5417d41c-3a52-44ac-8fb6-fd7a9688d56d)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 765dfece-9c97-4f30-be1f-be66b3927a18))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp b7f0417d-d671-49c3-a3fe-4a562a28f2f8))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -37587,13 +37527,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_12_1" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp b5d7d2ce-d3dd-4f12-a0a9-e44598887359)
+      (tstamp 129f8113-2c7c-4675-9600-754f1c723eab)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp a7bc80cd-bfb6-430b-bae3-a8627908270f)
+      (tstamp 9f1dcfe2-df44-4019-b178-89d20366dc1d)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 59f4c7f4-9256-4ade-8cfa-8a471d3cb26d))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 1aeda603-0a17-473a-a9a5-fd995441f162))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -37894,11 +37834,11 @@
     (attr board_only exclude_from_pos_files exclude_from_bom)
     (fp_text reference "G***" (at 0 0 45 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1.5 1.5) (thickness 0.3)))
-      (tstamp 5978ae6b-d866-468e-9910-76a1ca4c134e)
+      (tstamp 298ab568-9d49-4413-9616-d525c71e5317)
     )
     (fp_text value "LOGO" (at 0.75 0 45 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1.5 1.5) (thickness 0.3)))
-      (tstamp faf9ba8f-4e93-467e-8a42-2f64097515c0)
+      (tstamp a4249fad-0603-40f7-9e1f-a6d52f2035f5)
     )
     (fp_poly
       (pts
@@ -37924,7 +37864,7 @@
         (xy 2.58114 -1.000404)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS") (tstamp b5310dd6-f261-49eb-bce1-108189b0350c))
+      (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 05ecd5ba-7809-48b1-b6a0-68c8d9847bb0))
     (fp_poly
       (pts
         (xy -2.040331 -0.868414)
@@ -37951,7 +37891,7 @@
         (xy -2.585141 -0.972811)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS") (tstamp f3ec9f09-8b0a-4141-b90d-c46a399a0863))
+      (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 01f4b384-8fdc-40e1-84f9-dfda8af2999e))
     (fp_poly
       (pts
         (xy -4.890663 -11.749748)
@@ -38147,7 +38087,7 @@
         (xy -5.989627 -11.872319)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 53cc04dc-f2b7-4dbc-8f71-df6411fbd30a))
+      (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 5c7ae103-d490-4664-8bef-1ec4ce1aaadd))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -38156,13 +38096,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_6_6" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 88612793-2c68-4f40-93cf-0cf57ae67584)
+      (tstamp 5a0bcb85-7568-4c13-8c50-7a5f4e749e00)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp f0e01b0a-7666-4575-985d-9f7e70e96c53)
+      (tstamp 98366648-b5ae-43b7-8361-26daa602f68d)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp e62d55eb-4872-4aea-b2f0-10b6bb100acd))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 152ae11b-22bf-466b-b608-93a7f5f9c148))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -38201,13 +38141,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_2_3" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 589daaaa-c3ff-4b41-90bd-cf0547b95096)
+      (tstamp f153d339-e2e4-4aac-813a-20fa9685edbd)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 53accffe-24c4-40d1-89ba-e6194082a312)
+      (tstamp 87b757e7-ddd6-4614-a09d-c0d010a84c87)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 07cd2d64-51c9-4f31-aea9-728503a3c9d5))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp c1761a7c-0418-4967-81ec-c572747419dd))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -38216,13 +38156,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_3_1" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp c9cd7664-0a95-40ff-8a96-9f3e2b767792)
+      (tstamp 851dbf3e-ed18-49b6-a662-38af137ef397)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp bc393866-266e-4095-84db-e47ebaddc2af)
+      (tstamp 61906c31-9983-4d1d-bbd8-01eee20c39fe)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 7c7e909d-dd4b-4eb9-879a-a32d8547fa98))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 7dc78659-98c2-471d-88df-337332015211))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -38231,13 +38171,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_12_4" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 74972ffd-7cdd-47eb-b259-7f606feb2c52)
+      (tstamp 1f2f923a-de63-43cf-aa32-60271c1d5a56)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 9c648f46-a312-4587-8a3d-126bca150bd1)
+      (tstamp a8722eb8-7416-4b30-a5f1-b34f1abfc9c2)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 4efbc393-b4a5-4d45-ad66-3de3e55c52b9))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp d7c091f4-473c-4720-a983-5c48e26bfa65))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -38246,13 +38186,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_12_6" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp afa106e7-8ed9-434a-99f7-d8ab1ce4934b)
+      (tstamp bb62e9a1-ca90-47c6-a912-8c51bff61376)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp ea1dc530-fdec-4533-9dfa-54e782174ef7)
+      (tstamp 94ea0ce7-ce34-4fc5-ac11-f7a27349d0c4)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp e2175df0-8866-4e38-b37e-ef8dc27c5d91))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 7c2e7cb8-1aef-4d7a-817f-47d821383a44))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -38261,13 +38201,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_9_6" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp c6ac784e-bf21-4884-ab55-4c72fa399bc5)
+      (tstamp 82c961c4-abc4-4328-93f9-69dec2a451ab)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 7ef785d8-5cb9-47ff-a23e-59b3edbecaa2)
+      (tstamp b0c453af-75b8-4e6d-9ce7-b93f829171d1)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 8efd4200-fd88-415d-a209-a29182ef4279))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp f0b27379-c0c7-400d-93b9-713e854eb065))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -38276,13 +38216,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_2_1" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp ffed412e-35c5-49d1-8f6a-d5ab5aeb5546)
+      (tstamp 75f5d237-99f4-4f9c-b746-5d30299167ce)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp cef4b07f-a39d-4b45-add3-e966ad01424c)
+      (tstamp eee0f90e-f5ea-4b26-b967-01868b11efda)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 438767b3-3c2b-4dca-a8e7-820bf9bab221))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp f87467af-2073-4ce2-919f-73ded21b60d2))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -38306,13 +38246,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_10_5" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp d43c270c-bd19-4411-bbe0-749be3c78175)
+      (tstamp 2968b581-aa26-4693-99c9-9466abcb1543)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp e847c61f-65e5-4357-ae6b-251cccdbbe8d)
+      (tstamp d9a77490-cb87-4021-9a9b-e05c350032da)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 3548e10e-6ebb-4dcb-9851-6ec8a87431f3))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp e9d88050-4bd9-42b0-a4ea-57f27f05bace))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -38321,13 +38261,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_8_2" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp d609d76d-d1eb-4845-b55f-a1d358bb5a47)
+      (tstamp bd8c4175-4733-4b11-a794-58fc9576bb9c)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp ca21051d-6be1-4a79-83a5-7c20f2009d9a)
+      (tstamp 58b12b92-9436-4f4b-9006-57fff3fc945d)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 90b25838-dfc3-4364-a2b2-04fda0d34719))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp a43dd937-ed91-4813-be43-63a4ad9c25ff))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -38336,13 +38276,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_4_2" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 4e4439f0-1c25-41c9-95df-1646c5f8eba3)
+      (tstamp 843067e9-43a6-4eb5-a1ad-f1159900136b)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 224f822c-594e-4339-85fb-deb29f76e02b)
+      (tstamp e2c6283f-cedc-4504-9d6c-3a06e3c3442a)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 7573f238-bcab-4471-a5d6-0cce8966aa2a))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 79f14c24-ecb7-4669-af5f-e4782c5f9680))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -38351,13 +38291,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_6_7" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 6f9ff126-fe43-4737-9039-ee2771d97d29)
+      (tstamp fa4336cd-1840-4630-a552-3bbadd46e7a9)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp eea8b371-82ad-4646-a1b8-62cff158925f)
+      (tstamp 30033a38-9d31-40a2-91bf-72cf87e918ed)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 81f1bab7-e2fc-433a-af37-18e9af411890))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 1f8ee3c2-c980-4b00-b2e5-814bb0d9f2d0))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -38396,13 +38336,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_10_1" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp b794a6af-755e-46d6-a5ce-ac6846466c21)
+      (tstamp 7932a1e0-ba48-417a-8b1d-b7ab3592ad15)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 9d21612e-b95a-4cb5-85bd-def384885577)
+      (tstamp a295ff62-da8b-427d-a107-1749a05dbf1c)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 15ea02d2-f529-42fa-be10-0e0bedaa9c10))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 8b7f2fc7-451e-455c-ae99-659ce58c355b))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -38411,28 +38351,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_8_1" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 64badb28-b526-437b-93df-4636c236d98e)
+      (tstamp d42612eb-859b-4cc9-ba38-53afd9451a15)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp e478c4ad-5a63-497b-bf8b-8e848c7c8c2f)
+      (tstamp 1594067a-c6a5-4091-81ea-f03fa8886221)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 0b33ece3-447e-415b-a2d9-f2316c071b35))
-  )
-
-  (footprint "NPTH" (layer "F.Cu")
-    (tstamp c79c6c47-1b7a-4d0a-bde9-a2d98d682aea)
-    (at 370.452714 124.115937)
-    (attr through_hole)
-    (fp_text reference "KiKit_MB_12_7" (at 0 0.5) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 6f8c9a84-da58-46a9-8184-889f71d2576b)
-    )
-    (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
-        (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp a2d93840-28b3-4155-9913-588b7ef2eb6c)
-    )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp ccff708d-f09a-45bf-b107-87c30c125274))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 2dd21d8e-2c82-4a52-a8b2-8eeb43d289de))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -38441,13 +38366,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_5_3" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 577f66a3-67be-4392-8584-e2be28a3ccd6)
+      (tstamp dbe42cee-8cd0-4bf1-bee3-e3b0b9e235c8)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp afeb60d0-c128-446f-8735-ef514d301050)
+      (tstamp 6bf97f2c-e5f6-43ef-a8f0-750bdf9b7458)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp b86a0541-9eb1-4fa4-825e-d98958b46fd0))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 3dcc67be-3f78-4cb1-ac12-e82e38fdd400))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -38456,13 +38381,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_6_5" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp b41de377-7190-48e9-ad2a-f4599fda93f6)
+      (tstamp 9ee69f9d-164f-40e9-a6b1-81a146544bbd)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 3819cc9b-cfc5-427f-ae1b-a8a90f8885b6)
+      (tstamp ae2cc264-2d6a-498a-b111-d94e3aae796e)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 195c765d-95c6-4797-b79c-f56892d1d673))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 8183e970-272b-4864-8fe0-34d503d6917a))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -38471,13 +38396,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_12_4" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 94c22e4d-74d4-440b-818e-f3f219739f08)
+      (tstamp d52c4ef9-7c66-4b4f-b40d-d342b9a93832)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 8b4c7085-4519-4206-a755-af8a3b43bb15)
+      (tstamp ceee3c76-f908-4544-b8d1-23d554ddf50d)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp f823dd05-0d5d-4995-957b-1005ac667065))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp ab9a0a0d-1948-4437-b636-cf2b823a0f6a))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -38516,13 +38441,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_11_6" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 6518932c-d86b-4e1c-8f6c-0471887fdae7)
+      (tstamp 3ad31ce0-e70a-4499-8714-b7170e437bf3)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp cac6c4ea-0039-4bf3-a83e-7ffa4ab98d9b)
+      (tstamp 7e5a0937-e26d-4c82-8be6-ac54d4e7c93d)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 2219a3bf-3688-4291-b7f0-d3fb6d8b63b7))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 75c3138a-d8ff-4208-9059-436a437e33f7))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -38531,13 +38456,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_9_6" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 24d0329f-ec7b-432c-aa0a-052c866c5bb0)
+      (tstamp a37ad346-e9eb-49b8-b708-5bed784b6e52)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp fab11202-5f5a-4470-ba36-becf82222eb8)
+      (tstamp 51fd96a7-d1ac-4eb2-ad6d-dda6f25c8304)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp c76ba606-27c6-4666-8c4a-39e267ca94cc))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp bac5d238-6260-4563-811f-f2fda49bb59a))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -38561,13 +38486,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_6_2" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 5f1fcc6f-1950-4a27-a9cf-5b5f49d37b4b)
+      (tstamp 0fec9a49-e586-4f2e-b084-9251ad4e4763)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp aa577450-ec3f-494d-ad73-5238006e1799)
+      (tstamp 96000b87-bfce-4c6a-b248-7bf3e5f19bd2)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 3caa2525-482e-4834-9aed-213a8db6bd48))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 2d2a4d69-d7bb-4056-bc8b-29e519116bcf))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -38576,13 +38501,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_12_2" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp ff25763b-8bd9-4389-9e22-2eacbe877cb9)
+      (tstamp 301b6c53-0768-41e1-83ee-d96c7f142a30)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 0bebef73-8d0f-4919-b896-840ca54c1246)
+      (tstamp 325ae27c-2026-4917-9e1e-2a8cf3b42734)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp a4c386b7-a7a6-482f-8e6d-9ffaa966a43c))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 25540be5-5bbf-47bb-b86e-b0176efa5fac))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -38591,13 +38516,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_4_3" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 404e4ef5-c6e5-41c2-b193-18d745a89158)
+      (tstamp 11b12118-46fa-4924-afb5-30607110b4bd)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 60530155-82bc-479a-8440-6bdd1a4e9df0)
+      (tstamp d92f9576-2ee1-44f4-ad4b-43ecc3135491)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp ac14edbe-87fd-4043-aa14-df68bf780458))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 7ece65ec-cd74-4ae1-923f-f363b02b04a5))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -38606,13 +38531,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_11_3" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp a6c0f4f7-c1f9-4b17-95f4-33a82ae1115b)
+      (tstamp 72d75be3-8c9f-4df7-9b3e-022d5c031eb5)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 26022cc4-c53e-410d-ae29-c290c572623d)
+      (tstamp 29d0e52a-60a8-49eb-84d4-b9745d54c911)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp b63d2fde-8b13-4864-b49d-4f942b4b63a1))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 35a02b3a-2412-4e0b-9516-46b417a330d9))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -38621,13 +38546,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_2_4" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp b4f76c3a-c964-48bd-94ad-b503e5f1d06f)
+      (tstamp 8df4366d-e212-462b-ae2a-afd0331215d0)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 11577ec5-2253-4d85-bb45-908caca11368)
+      (tstamp 10de8a9e-27cf-4fe5-a2eb-48fb3a505751)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp ce9e2f5c-478e-4c20-945c-21eda2ac6426))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 1678ad54-171f-4ef9-a059-87cc614da6fb))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -38636,13 +38561,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_12_3" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 8af3ec39-6c84-40c6-b5d5-1478d89cd779)
+      (tstamp 0a7554a5-6db7-4c0d-8252-cae7dc05e030)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp a621720f-3fc1-4705-b8df-a90650a9e414)
+      (tstamp 77105f2e-ca48-499a-a85c-d584704dd873)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 08f70a06-5e51-43b1-9e8a-9f2b9539fdb7))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp bc53a1d9-ff9f-4a51-ac4c-d3c05f410f4c))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -38651,13 +38576,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_8_7" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 1046d182-bc20-43af-8294-82d9f8a2141f)
+      (tstamp e70248a3-17da-444c-9b11-a432752bab36)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp c4177368-3f47-4f7b-b83f-3af42c4a95ff)
+      (tstamp 96b9aa63-a3ec-4c3f-a328-a5affaf26cfe)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 69ad7802-7b79-4572-b799-6851a4f4d183))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 499ad72f-99cb-40ce-b8f3-c1c3e2019dac))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -38666,13 +38591,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_1_3" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 053b33f8-5e03-47d0-81e5-c70411a508f5)
+      (tstamp 450f8ecf-ca0a-40f0-a6c5-b357c4e1a7d2)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp af3d16c8-be7a-4f56-b149-d5209b257176)
+      (tstamp 44994926-0b5b-463e-bf41-309462f33f5b)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 5070bbc6-92cd-4703-8955-c3705f70f052))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp f65ed93d-35c5-4bfd-a1f6-eb5cdc07172c))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -38696,13 +38621,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_11_2" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp a2834aa7-25b9-4ce5-bd04-9d69183d5c67)
+      (tstamp 784ec0fb-cdbe-48de-897f-7c3b87819a1e)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp fd6b24ba-d489-404f-8acd-38131748801e)
+      (tstamp ae6e59c4-26f0-45ac-a347-a13e6b34f197)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 089f2168-6d50-4cae-b82c-4c0def62eb50))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 57892b96-9690-4b72-991a-f26e9fb60376))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -38711,13 +38636,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_3_1" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp fe380960-82db-494e-bf2c-4bd40a3e4962)
+      (tstamp a3f86964-93fa-41b1-b098-f1b5149d7e79)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp ec437d2b-d357-4dd7-95d4-048ed9b91191)
+      (tstamp 96f9de7d-873c-4112-95b4-65844465688a)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp c48d599e-2eb2-47ba-a302-c9910eb0a781))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 4e8dcf76-c044-4ab6-a132-b8b599eb323b))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -38726,13 +38651,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_6_4" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 365d9ccb-7077-49e8-abb3-4fc16d3b6dd9)
+      (tstamp 6dfd0c59-ee68-4f9d-bf94-8af6b8b67f00)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp bd5a2660-c72f-4181-8bd5-c5f66173be8f)
+      (tstamp ee036fb7-a2ee-42ee-bdcd-373adc7a96c8)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 515b51a0-6a95-4d2d-a644-ba8baa97b3a0))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp b321259b-698b-49bc-95ea-8a05467c4cc4))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -38786,13 +38711,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_11_3" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp c5ac5c57-89fe-4749-89b9-c33725d93c0d)
+      (tstamp 774f08c1-7e8e-4e8e-b2db-1b37dadf6ce2)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 687f5d6c-cf49-477e-a33f-6439bf0d6caa)
+      (tstamp 1a472ac6-696d-4471-bce4-c940794a5edf)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp d8f3b34d-4527-4162-8192-33bbbaa3fb38))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 57cf96ce-57e5-4029-a33b-8e47568372b2))
   )
 
   (footprint "LOGO" (layer "F.Cu")
@@ -38801,11 +38726,11 @@
     (attr board_only exclude_from_pos_files exclude_from_bom)
     (fp_text reference "G***" (at 0 0 45 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1.5 1.5) (thickness 0.3)))
-      (tstamp c53bf05a-2140-49b5-a419-09db3b7570fb)
+      (tstamp 192c423b-01aa-46ff-938e-3fec4ad07e3e)
     )
     (fp_text value "LOGO" (at 0.75 0 45 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1.5 1.5) (thickness 0.3)))
-      (tstamp c8cd5a2b-0a31-4421-a647-c20853de2563)
+      (tstamp 36d0a291-fa1e-4e79-9e3c-ff365cad4a28)
     )
     (fp_poly
       (pts
@@ -38831,7 +38756,7 @@
         (xy 2.58114 -1.000404)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp 4ae40ca3-ae44-4f94-a150-eb21cc22e130))
+      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp 8df55e3e-67da-4343-9dc2-db41f2ef8db0))
     (fp_poly
       (pts
         (xy -2.040331 -0.868414)
@@ -38858,7 +38783,7 @@
         (xy -2.585141 -0.972811)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp 5e3f60f5-2a7c-4f15-8fc2-657df51d9f2f))
+      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp 069d1df4-4480-4dda-8393-dd5ab5cdb074))
     (fp_poly
       (pts
         (xy -4.890663 -11.749748)
@@ -39054,7 +38979,7 @@
         (xy -5.989627 -11.872319)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp 31551c1c-44d7-48bf-b7fb-c9b7110c85a9))
+      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp e973c0fc-bb67-42f6-806e-eb558aee8460))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -39063,13 +38988,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_10_7" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp a1437235-c505-438a-ac45-b72dffa840b0)
+      (tstamp 2870db84-d51a-4a99-9b28-014db9a5c65a)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp df0009ce-3f38-4070-b67c-17621b2b3f62)
+      (tstamp 8ea5426e-43b6-4401-9b4f-472d8daeb0b6)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 2f7b19d2-4c9f-4dc3-8fe8-f64ba48d55d5))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp a510f7cc-bc53-4cfa-aa66-4f9fc6fd1c74))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -39078,13 +39003,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_10_3" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp ac2a425a-0120-45d6-80fa-26e880111abf)
+      (tstamp 8e283860-eb23-4dd6-a69a-2f0d035368ce)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 721d7154-c373-49ea-abb0-d895377b9668)
+      (tstamp 41221e2b-6385-4b52-9c30-560571ced573)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 5bb42206-1316-4de8-afb1-c53ea2013867))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 76fe8575-4702-49fa-8459-caf5e1f53a57))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -39093,13 +39018,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_2_1" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp eb77eff5-11ee-4b7b-b6f5-4016cba49f84)
+      (tstamp 079c0107-be45-4993-92ca-708773963b26)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 6a7692bc-ba57-4364-a578-5d73fdc5ef92)
+      (tstamp 393636ff-6606-4a9d-a9b2-09db4411b06e)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 862dd2b0-81b6-4432-81bf-62c4f918dc2e))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 2d2e7c85-88ef-4e63-9795-e0676c902b48))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -39108,13 +39033,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_8_3" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp fc143a24-917c-441a-96a2-90e4a95e1566)
+      (tstamp 8b032f63-68d2-4b83-8134-e9e200e2ab83)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp d61a0c9a-2e13-4743-ba93-0afab59159ee)
+      (tstamp 0945102d-a4b0-4e40-b2af-007c01f2255b)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 2bfcf013-037a-4f10-a9cd-5dd99b99d061))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp d5ba2adf-5464-4f80-b30c-dc5308d8b596))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -39123,13 +39048,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_6_7" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp f3c1f843-4795-46c2-a4ee-13b585fa7a3f)
+      (tstamp 1ee65428-e1f9-4994-b4da-a8f16c761c35)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 6924a088-1cdd-48d2-93d3-de532d4c1cc5)
+      (tstamp cccdeb99-757a-4f89-97c5-dc325d05efa8)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp f37aee41-1019-4e7f-a11d-57ea9e223b38))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 1ce69325-ea94-4269-ab14-827c9c0b91e2))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -39138,13 +39063,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_2_5" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 1496ee00-eeab-4e51-897e-bb8172c38d84)
+      (tstamp 7a3038b0-60cb-4fc6-8903-28f6a8d5424c)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp f88c7543-43fc-4ada-87d0-20a175bbc3bc)
+      (tstamp 06210303-4197-4ee2-bb86-2844ea9118a6)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 9b263060-7ca5-4209-a5c4-b0fd21b939ad))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 5b87839b-4ca1-407b-8767-8b9c3b7f7f2a))
   )
 
   (footprint "LOGO" (layer "F.Cu")
@@ -39381,13 +39306,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_7_5" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 683f0ad5-effc-43c6-8051-d3d9469aa5f3)
+      (tstamp 01a5b402-81bf-4198-868f-3fd1d78d4a5b)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 7417ca8e-248e-40b6-ab5a-ff45e9144b65)
+      (tstamp 13e2785f-c17d-4e3e-9ca7-39db6b532a5f)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 4ac75423-9266-4b70-80e9-48d51eb2d85f))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp e4a5eac5-e597-4500-b87d-1d43ea16fbf7))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -39396,13 +39321,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_11_7" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 8a2856ed-7e6c-4015-86b6-05f0d3fc9ac2)
+      (tstamp 3a1d1856-1a2f-4ff1-a9b1-4d3a266aa691)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 9eb165c1-8763-403a-9816-b2610b41a7e7)
+      (tstamp 75a03ef1-1e66-498c-b785-87803896f58c)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp b72fe648-8879-4b55-bec6-b52767e78c1e))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp f866fc8f-92b6-4fc5-9023-7196e105020f))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -39411,13 +39336,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_9_7" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 0197fbd9-a4a1-4f0a-ab6f-6f7ed7c27528)
+      (tstamp c87b9e1e-b5f5-4154-94ff-dd6282e1515e)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp d950f801-f8dc-47ba-a47f-b379b03f003d)
+      (tstamp f2923dec-ac4d-4844-a281-c7718725ae0e)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 230bb585-2fb1-4820-b138-e59570852e27))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 01304030-02a7-49cb-b8d2-cc30f3e35eff))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -39426,13 +39351,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_2_3" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp c4db9ed4-86b9-49ca-b583-fc130bef2713)
+      (tstamp 538fdc5a-b831-4611-b312-63d4c302cd49)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp a1e7908e-0abe-44c1-b98f-0bac0b6881e4)
+      (tstamp 8db2ee4d-70f9-4a8c-9524-4e7deede6fdf)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 13ab7938-c99f-4178-9314-cdd7f2ca54b3))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 2bc63962-0769-407b-a48d-aea467ba3c6b))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -39441,13 +39366,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_6_6" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 76c7a081-82ce-4ec6-8368-1aea5bcca63f)
+      (tstamp e09d8c8d-d5d1-4fc3-8185-cdf6983801bb)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp bc1e0b1b-6ab4-46ca-ba32-afbbc04480d9)
+      (tstamp 51c8cf33-c5bb-4ed4-94fc-de5a1a1a3e16)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 142704ce-ebcf-41a1-81b5-aa67899e6f30))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 7bbfc955-51bd-4f5d-93dc-3c11c216201d))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -39456,13 +39381,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_11_7" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 8f9fc1d7-57ed-4fac-921c-e9337983ceb5)
+      (tstamp 5ab1dfbf-aa0a-4295-bc29-77230dedac70)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 2e17f5fa-debc-41f7-bf4d-14121a3bac82)
+      (tstamp f5ff80ce-1303-4ae9-b3b8-55fbe267c67e)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 1a0f3fce-ca1a-41d2-9f08-72bdcb31a7de))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 53929190-35d6-4a18-b10d-4f9c17a3d641))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -39471,13 +39396,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_12_3" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 03019231-9e85-40a1-8c41-7cfc14d32596)
+      (tstamp 2edeab18-8987-4785-9a13-630b2e93366e)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 66a67e75-5cae-4524-8213-21562aff75a4)
+      (tstamp bcaa1216-ea83-412b-a451-e0fc82c1ee15)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 335f6bd4-5ace-4d89-baec-42419e072581))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 8c9780a5-c212-4cf8-bad7-6f18aa624169))
   )
 
   (footprint "LOGO" (layer "F.Cu")
@@ -39486,11 +39411,11 @@
     (attr board_only exclude_from_pos_files exclude_from_bom)
     (fp_text reference "G***" (at 0 0 45 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1.5 1.5) (thickness 0.3)))
-      (tstamp 2fc9336a-75e8-4f57-b6cf-19841208070f)
+      (tstamp ffd53941-25cd-496b-b17e-0e086fcdd761)
     )
     (fp_text value "LOGO" (at 0.75 0 45 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1.5 1.5) (thickness 0.3)))
-      (tstamp ea7df9ca-e5b9-4698-8c6a-c8923de9f532)
+      (tstamp da746ada-20e3-492d-a438-cac29a03edcf)
     )
     (fp_poly
       (pts
@@ -39516,7 +39441,7 @@
         (xy 2.58114 -1.000404)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp 0f122e0f-28fa-4993-b8be-cfd086684627))
+      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp f0e0aaf2-3858-490c-8160-ab611328d7a0))
     (fp_poly
       (pts
         (xy -2.040331 -0.868414)
@@ -39543,7 +39468,7 @@
         (xy -2.585141 -0.972811)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp af19b249-0477-4628-9563-7df7295a6d92))
+      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp 64595de4-d1ca-4a3d-a78e-d3ceab8d1659))
     (fp_poly
       (pts
         (xy -4.890663 -11.749748)
@@ -39739,7 +39664,7 @@
         (xy -5.989627 -11.872319)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp f1a3110f-255a-40eb-96e4-38c343134619))
+      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp 4f1005db-a842-4100-a462-6e55a5111de9))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -39748,13 +39673,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_12_2" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp d3637a1d-924d-4901-9bc3-d3eecfcb26d9)
+      (tstamp 586f4f26-8fa3-4aac-9975-a8a1c8b31d5a)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 37775360-b14d-4e5f-8c9b-e6dac7618aac)
+      (tstamp 1ae88f4b-5fbc-4ad3-9b08-87c17eb008f4)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp f955f24d-7684-407d-ad29-9e807a28d122))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 2b9b70dc-c9b4-4a15-a730-5c34e30e0350))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -39763,13 +39688,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_9_2" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 5ea17aee-df67-4660-901b-fdaca861ec17)
+      (tstamp 2f86f19b-b7d2-4fc8-9ebe-dd8e00e3371d)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 7fc99137-3f85-49b5-82dd-3ed099c749ca)
+      (tstamp 303afb5e-dde0-4357-8c43-b79b1f51d503)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 05cd3e5d-87a9-4d92-9906-a964af65d803))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 376a9983-13fa-4519-a536-6d519495b88e))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -39778,13 +39703,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_9_7" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 1812756f-aa5f-4644-8395-542673b497c8)
+      (tstamp a6a0fc2f-caa5-425a-ba97-6f3693bf0571)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 12ce6e42-7f32-4db9-9516-262b954cc22d)
+      (tstamp 936c1c15-7d36-4bd5-b873-e4b64f8f9a5e)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 96b931db-b81e-43b5-a496-08a36b829643))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp d4ecfce0-9d5a-40e7-9873-9434bb511cc1))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -39808,13 +39733,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_8_2" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp e5db972d-6084-430a-b1c5-388fe93f60a8)
+      (tstamp da3d3ee9-128a-4047-b50b-513f22d4eaa4)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 7063c6d5-7d1e-4409-b6ef-64bfbcfebb5b)
+      (tstamp 80b63d54-4248-42a0-9f4d-5f97d44bf693)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 7e2c7e41-e71d-44e4-bfbe-4a79d3d0e232))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 33d9982d-bbdb-4998-aa90-ec3e2037ec1d))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -39823,13 +39748,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_7_1" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 086e7ada-6019-480e-9b90-988da9bf7805)
+      (tstamp 390846af-dffa-4d36-984b-b684b4e2a931)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 3ac92c9c-5f4e-4486-80a2-055d303dd85f)
+      (tstamp f5b8e911-bf4e-46fa-b633-92ac9a15127a)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp cce90f64-abf5-4f9d-9395-9135fa33f5dc))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 5d517a6e-2bf1-48cb-8fc9-baeec96a4e61))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -39838,13 +39763,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_7_4" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp e076d5da-5368-47aa-b715-854a91a70f7b)
+      (tstamp c3414508-eaf1-4f5c-835a-6dc1068fbfca)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp a069e5e6-f996-463c-b05f-e7d6f1148f92)
+      (tstamp 2c25eec2-d05f-4254-bb9a-fcf08cc600f6)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 8c9a40a5-0ec1-4823-9cba-3825d18dac04))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp a5d852bc-eee2-43b7-ad3c-d823b4015fb1))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -39853,13 +39778,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_2_4" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 655e30c6-1722-4f53-b07f-ebb0cdc43c46)
+      (tstamp 9c6d5331-ab88-49bb-abfc-82ac93fe0daf)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp b56b5eba-bea4-4765-b7db-0aba791f5f46)
+      (tstamp 1fa6df3e-3ebb-4606-863f-6d9381c40741)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp ae883c23-5762-4c48-b898-9d8fa1e038f0))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 97e924d7-28c5-49e3-86d1-324c129212f3))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -39868,13 +39793,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_1_1" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp ef2bafa0-753d-4584-83f5-b4fa0fb9cde0)
+      (tstamp 16534010-2cff-4e20-b3da-b8745f690ca5)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 97e27be8-0ef2-454e-99d4-1e5a894e8731)
+      (tstamp fcfb1989-a983-40e7-aa07-8129b7646f57)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 7900d4ea-0267-4b96-a437-a5f31a49b9f9))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp e85f06d6-1cba-44ee-b141-6d4f0c6da0ef))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -39883,13 +39808,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_8_4" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp fce7a487-84eb-4f63-bca7-34552aae618f)
+      (tstamp c62920bd-ddec-4890-a361-1222e46061c4)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 612cdcec-8fb5-4534-b970-6f9d3287ae4e)
+      (tstamp 08539910-5d58-43fa-b98f-911932d2effc)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 97d19fa8-d8f4-4ce8-91ff-3bf18366a965))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 69e6cb31-22c1-4694-b2aa-d7214ba04f57))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -39898,13 +39823,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_12_6" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp c9ed34f8-bac8-4c82-b987-ec74cc208179)
+      (tstamp 72fdf495-441c-4cd1-b0b6-357fb6254e7c)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp d3b378b0-9553-4b1f-84dc-7662ddcc02e3)
+      (tstamp 9b84a570-49f5-4db3-9299-442925a069f2)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 8f1c154a-8153-4541-91fa-06cc14d82cb8))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 29026872-0d3c-40c8-b868-4a84120196d4))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -39913,13 +39838,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_8_5" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp ab6a661e-48e1-4014-a118-18ac5c35e8ba)
+      (tstamp 934952bb-48c6-4048-8bcf-2cd2370dab99)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp b8c519ce-b296-402c-a946-759aef9da034)
+      (tstamp de2d6052-067a-4782-9ca5-71e7050f1319)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 19dbc356-29de-40f8-a0e6-72440f8b53e1))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 18acd0c7-d5e2-4247-85c7-9dd92a333dd4))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -39928,13 +39853,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_5_7" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 3c2c5e23-86ad-4987-ae1a-c9389375edcf)
+      (tstamp ffed8c7f-8cd7-4ffa-8aa6-f9b556ad0770)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 800d81b0-6066-42be-b054-70e62a050361)
+      (tstamp 49e4f4fb-effe-4aeb-b8d9-17b976e254eb)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp d35d5e47-9ce0-4179-b83b-24b777a48989))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 1444583a-bcf7-4569-9b82-18eed64b6b90))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -39943,13 +39868,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_3_2" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp a2bd5b1d-a02b-4a17-9e33-b21a408a079b)
+      (tstamp c909a942-a76e-4f83-8b4d-ea57a55c4d66)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 4c8b0373-b318-4ce2-94a2-d43da7763d67)
+      (tstamp 01ae8d2f-a540-4b03-b283-a56d88856649)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 7db7a35c-a07e-4343-8034-4998fda79e6c))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 0913c6d9-063c-4556-b980-22b68581f4f4))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -39958,13 +39883,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_8_6" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 618d479c-a022-483f-b575-f2a58a8ebf81)
+      (tstamp df28fc9f-4984-44f3-9c78-b60fa2249682)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 1b80129c-33a4-4b15-9cfc-5762b135128d)
+      (tstamp f2c0087c-90f9-4df3-88b8-ba81682ce2ea)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 70e9a791-95fc-4e80-96f4-1c7fa56fbc81))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 474c65b7-ab4f-412e-ada2-408b36d36507))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -39973,28 +39898,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_9_2" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp acce539a-645a-4fbd-9671-21fa633f537a)
+      (tstamp 0bbbe9de-ee78-4baa-86dc-b275d9207880)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp d495a18a-e98d-44d1-b1e5-5b9fe80d20de)
+      (tstamp 021b3610-8f28-4401-aa95-80dae5bd5d41)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp a587a287-b290-4d9d-aead-ddd6cfeab121))
-  )
-
-  (footprint "NPTH" (layer "F.Cu")
-    (tstamp f895a000-192a-4ec6-b4e5-fdc9a0c5a931)
-    (at 264.657743 40.454263)
-    (attr through_hole)
-    (fp_text reference "KiKit_MB_9_1" (at 0 0.5) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 2b74be15-b469-4356-a7f1-184527eae2ea)
-    )
-    (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
-        (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp c4cbd533-d4e8-4b7f-a860-3f2d9167a731)
-    )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 941b28fb-7ed4-414e-9e8f-e2a9219c30e3))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 1242354e-a51f-4d6c-a648-dd1da966f859))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -40018,13 +39928,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_5_2" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp b1885757-077f-4ae2-b077-70d9eeee1393)
+      (tstamp 0c5439ff-4105-4a3e-a62f-d1b6134cd13c)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 880b5d90-0a3a-4e0f-a8d7-86d1a2c1f5fd)
+      (tstamp 9699610d-8faa-42d8-82bf-ec34f1d92e6d)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 84b61162-f6fe-42f0-b27c-4b213bfb76fc))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 22c0d8fa-2b55-42b8-99ab-0ba37ff57f1d))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -40033,13 +39943,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_7_6" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 4f7c5f90-2bd9-4974-97be-8756ba46f3b4)
+      (tstamp d9862b27-3a9b-44ca-ab78-15034c96e1d5)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 8281b97d-e68b-4dfe-8e77-cc182bd8b3fe)
+      (tstamp e52e56b0-e05a-4030-a5ed-08f5fb782960)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 144b500b-05b0-401b-8cd9-e5ebbe5d2eca))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 33bf64cc-40b7-45d2-8afd-a57259b20c7b))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -40048,13 +39958,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_6_1" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 892d6e48-46af-4ba2-81dc-e297c6df1fb1)
+      (tstamp e69123a2-1f2a-4dc2-884f-11e7683b5fa9)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp f7f3b010-e333-4408-81c0-bbfa91ab61af)
+      (tstamp 43b2be7f-dd31-4993-b190-80f3fb9182cd)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 015184d7-8ecb-4550-8326-6a2499036d33))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 1f5c1858-12bf-44c8-985e-b17a596e59e0))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -40063,13 +39973,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_11_5" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 336860f9-5c48-4012-a734-1c2dd9e589c2)
+      (tstamp e5c718a3-2da9-4f88-9c10-c55c54cf3a93)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp bbf900ed-7a9d-4d34-a8cc-1bef2b98cbf1)
+      (tstamp 34d0bd38-251a-42b8-9574-c84ed4e0a216)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp b3e5d493-9c12-44c4-a4e9-64b32915ec59))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp c1033830-b311-47cc-b8cd-2d95f0be7ee5))
   )
 
   (footprint "LOGO" (layer "F.Cu")
@@ -40078,11 +39988,11 @@
     (attr board_only exclude_from_pos_files exclude_from_bom)
     (fp_text reference "G***" (at 0.1016 -0.0508 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1.5 1.5) (thickness 0.3)))
-      (tstamp 360f85ce-fd30-47b3-8bab-77b1690d3d57)
+      (tstamp 8078238b-3ac5-4c45-9b49-5ce9c320f929)
     )
     (fp_text value "LOGO" (at 0.8516 -0.0508 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1.5 1.5) (thickness 0.3)))
-      (tstamp 4751b1f8-2ab1-4437-a153-cd76865cb8b0)
+      (tstamp 5e288dc8-cf52-4321-a9a5-2e29e218f541)
     )
     (fp_poly
       (pts
@@ -40106,7 +40016,7 @@
         (xy 24.50079 -1.79568)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp 7f06b880-d6a7-4b1f-b7ec-143f97febfad))
+      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp dedc124b-98ed-4927-bc69-397ca52ee932))
     (fp_poly
       (pts
         (xy 37.808149 -1.765449)
@@ -40133,7 +40043,7 @@
         (xy 37.459288 -1.802644)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp a53ffdbb-803a-46a8-a122-6e00a9de4991))
+      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp 03c6a73c-223f-4983-bf49-55b5d0fa4797))
     (fp_poly
       (pts
         (xy 1.758888 -1.089458)
@@ -40168,7 +40078,7 @@
         (xy 1.231538 -1.184679)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp 99feb5a5-f0b7-412f-b2e9-96de5c9b4695))
+      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp e4bbd17c-1730-4d71-addc-ab8372536497))
     (fp_poly
       (pts
         (xy -4.725519 -1.117856)
@@ -40205,7 +40115,7 @@
         (xy -5.237631 -1.188713)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp 3477bd70-21d8-4649-8680-4d2b8c616fa6))
+      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp e7128482-149c-4f7a-af1e-77a71db7a9d3))
     (fp_poly
       (pts
         (xy -32.847315 -11.486435)
@@ -40513,7 +40423,7 @@
         (xy -33.420341 -11.535935)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp 37bb30f1-8f22-407d-9d71-e25950a251e2))
+      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp 80e1dc43-218e-4d6d-ada4-d8070fb029de))
     (fp_poly
       (pts
         (xy -14.746398 -7.121092)
@@ -41654,7 +41564,7 @@
         (xy -15.288242 -7.212019)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp be7a5c54-f4c2-4035-b83b-4aeaaa28f3b8))
+      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp 2967b68d-efa9-4e73-9c8b-32c1729c7154))
     (fp_poly
       (pts
         (xy 24.951138 -1.667006)
@@ -41677,7 +41587,7 @@
         (xy 24.50079 -1.79568)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS") (tstamp ee2ce9a4-9093-4714-b6f3-e08f859da63b))
+      (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 1dd9478b-55c6-4ee0-902c-545f8125c12a))
     (fp_poly
       (pts
         (xy 37.808149 -1.765449)
@@ -41704,7 +41614,7 @@
         (xy 37.459288 -1.802644)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS") (tstamp c86296f5-8851-42e9-96f3-e896307fd0a6))
+      (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 453249ed-1921-4cfc-9edc-679e80ead10b))
     (fp_poly
       (pts
         (xy 1.758888 -1.089458)
@@ -41739,7 +41649,7 @@
         (xy 1.231538 -1.184679)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 00cff9df-e157-40da-9ff3-6689c512a03f))
+      (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 87fc322c-14f2-4bec-99ee-0b8b603684a0))
     (fp_poly
       (pts
         (xy -4.725519 -1.117856)
@@ -41776,7 +41686,7 @@
         (xy -5.237631 -1.188713)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 543da8e0-5420-4f80-a163-0427f51fe4a2))
+      (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 9df92ef1-998c-422d-9d04-10b4fce648b6))
     (fp_poly
       (pts
         (xy -32.847315 -11.486435)
@@ -42084,7 +41994,7 @@
         (xy -33.420341 -11.535935)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 8664e7a2-bce3-474d-90e5-e1391a34a698))
+      (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 075f2b66-15c3-4a30-a20f-0d0f34c71864))
     (fp_poly
       (pts
         (xy -32.847315 -11.486435)
@@ -42392,7 +42302,7 @@
         (xy -33.420341 -11.535935)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 99178172-ddc9-428b-8ed0-3882d596ff42))
+      (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 7821370d-ba2f-43d2-8560-b3360680112d))
     (fp_poly
       (pts
         (xy -14.746398 -7.121092)
@@ -43533,7 +43443,7 @@
         (xy -15.288242 -7.212019)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 72de37f3-c086-483c-8189-449d159a6abd))
+      (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 2564eb63-199d-40e1-b831-98c827b6336c))
     (fp_poly
       (pts
         (xy -14.746398 -7.121092)
@@ -44674,7 +44584,7 @@
         (xy -15.288242 -7.212019)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS") (tstamp c369e833-8906-4765-8c5c-458b8dcb174e))
+      (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS") (tstamp d36ba8a0-f80a-41cb-b74f-e8468b446ad2))
     (fp_poly
       (pts
         (xy -14.676825 0.130964)
@@ -44690,7 +44600,7 @@
         (xy -14.676825 -2.724298)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "B.Mask") (tstamp 82c25bfb-c6c8-4d7f-8687-3d5fac7ad0ae))
+      (stroke (width 0) (type solid)) (fill solid) (layer "B.Mask") (tstamp b90571b6-73ed-4786-ae8d-6815d2170bc0))
     (fp_poly
       (pts
         (xy -14.917559 -4.991384)
@@ -44715,7 +44625,7 @@
         (xy -15.386459 -5.520551)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "B.Mask") (tstamp fc8b9ac3-b61d-4c0e-978b-0b0b55675f64))
+      (stroke (width 0) (type solid)) (fill solid) (layer "B.Mask") (tstamp 6a7348d8-5e10-4c4e-81e8-73c99743e891))
     (fp_poly
       (pts
         (xy 42.989749 -2.804482)
@@ -44765,7 +44675,7 @@
         (xy 42.765742 -2.829057)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "B.Mask") (tstamp e419ab5e-5027-42e9-a031-120d0ddec652))
+      (stroke (width 0) (type solid)) (fill solid) (layer "B.Mask") (tstamp fc9ebb16-e67b-4652-974d-585ca565fd08))
     (fp_poly
       (pts
         (xy 2.090363 -2.530538)
@@ -44821,7 +44731,7 @@
         (xy 1.294025 -2.638384)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "B.Mask") (tstamp f37d7b2c-bbeb-4c65-ac5f-6de722a6a46f))
+      (stroke (width 0) (type solid)) (fill solid) (layer "B.Mask") (tstamp 816b16eb-8bf0-4e59-8474-b70766ffa9f5))
     (fp_poly
       (pts
         (xy 15.259442 -2.539621)
@@ -44880,7 +44790,7 @@
         (xy 14.537085 -2.639532)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "B.Mask") (tstamp 003f2d02-a2f4-4158-ab84-58441fb2d8f7))
+      (stroke (width 0) (type solid)) (fill solid) (layer "B.Mask") (tstamp 4ef92c6e-2494-4019-96bb-28985c59b186))
     (fp_poly
       (pts
         (xy -10.186376 -2.554876)
@@ -44940,7 +44850,7 @@
         (xy -10.845948 -2.618829)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "B.Mask") (tstamp aff589b4-0746-4d34-866d-a377b0f80bce))
+      (stroke (width 0) (type solid)) (fill solid) (layer "B.Mask") (tstamp 4681f1af-0390-4929-8990-e99c63fa8b48))
     (fp_poly
       (pts
         (xy 19.872167 -2.693939)
@@ -45007,7 +44917,7 @@
         (xy 19.230097 -2.757125)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "B.Mask") (tstamp 12bcc803-e175-41a3-9038-585a5fce6ed6))
+      (stroke (width 0) (type solid)) (fill solid) (layer "B.Mask") (tstamp 33399014-43cf-4de3-ba46-90a9315de660))
     (fp_poly
       (pts
         (xy -2.329603 -0.772723)
@@ -45079,7 +44989,7 @@
         (xy -2.329603 -4.539701)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "B.Mask") (tstamp b59a0ad6-1b9d-4ae6-b34a-1f2f4e371c08))
+      (stroke (width 0) (type solid)) (fill solid) (layer "B.Mask") (tstamp 279b1ca9-1f82-4dad-9313-f7b8b6e39070))
     (fp_poly
       (pts
         (xy 38.350289 -2.679159)
@@ -45156,7 +45066,7 @@
         (xy 37.607534 -2.83026)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "B.Mask") (tstamp ebab1c1a-fdfa-490b-bf80-17506b5d1ef1))
+      (stroke (width 0) (type solid)) (fill solid) (layer "B.Mask") (tstamp 18c86617-5b34-4977-888e-b640ffd33c0f))
     (fp_poly
       (pts
         (xy 24.669209 -2.797142)
@@ -45236,7 +45146,7 @@
         (xy 23.970331 -2.821801)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "B.Mask") (tstamp 6af657c5-8f64-4c95-9b4f-8277dde83b88))
+      (stroke (width 0) (type solid)) (fill solid) (layer "B.Mask") (tstamp 975f0af5-4e6c-4848-93b7-408e260e271e))
     (fp_poly
       (pts
         (xy 8.479058 -2.868871)
@@ -45320,7 +45230,7 @@
         (xy 8.421047 -2.958176)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "B.Mask") (tstamp e7295f1f-a336-4f5d-928c-24105668f8b4))
+      (stroke (width 0) (type solid)) (fill solid) (layer "B.Mask") (tstamp 883573c6-32d4-43e8-bc9c-fd397ea439ba))
     (fp_poly
       (pts
         (xy -21.081137 -2.775908)
@@ -45409,7 +45319,7 @@
         (xy -21.158988 -2.874449)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "B.Mask") (tstamp 0a86a417-0db7-4872-b687-df024ca11ac6))
+      (stroke (width 0) (type solid)) (fill solid) (layer "B.Mask") (tstamp 88c493e6-5c53-4752-8351-03d192090746))
     (fp_poly
       (pts
         (xy 29.741984 -2.83078)
@@ -45510,7 +45420,7 @@
         (xy 29.473571 -2.851826)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "B.Mask") (tstamp fe0b5a2e-d2ec-48dd-b757-ad92609d427e))
+      (stroke (width 0) (type solid)) (fill solid) (layer "B.Mask") (tstamp 9d660f7e-9471-4281-b425-cf7028ce4905))
     (fp_poly
       (pts
         (xy -14.676825 0.130964)
@@ -45526,7 +45436,7 @@
         (xy -14.676825 -2.724298)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "F.Mask") (tstamp 74c0dd39-efd9-44b1-b15f-2d84b1c8db80))
+      (stroke (width 0) (type solid)) (fill solid) (layer "F.Mask") (tstamp 28bbb221-9401-4838-854b-e8e403daac3e))
     (fp_poly
       (pts
         (xy -14.917559 -4.991384)
@@ -45551,7 +45461,7 @@
         (xy -15.386459 -5.520551)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "F.Mask") (tstamp 8b55931c-25ee-447f-9dd9-e564e5c0d4aa))
+      (stroke (width 0) (type solid)) (fill solid) (layer "F.Mask") (tstamp 420491fe-794b-4621-b223-a82b82259709))
     (fp_poly
       (pts
         (xy 42.989749 -2.804482)
@@ -45601,7 +45511,7 @@
         (xy 42.765742 -2.829057)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "F.Mask") (tstamp d288d8cc-e37d-4339-b110-d20e33f31893))
+      (stroke (width 0) (type solid)) (fill solid) (layer "F.Mask") (tstamp ec4a02d6-c0ab-43d8-9779-68cd009247af))
     (fp_poly
       (pts
         (xy 2.090363 -2.530538)
@@ -45657,7 +45567,7 @@
         (xy 1.294025 -2.638384)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "F.Mask") (tstamp c788e498-9ee8-4fb7-a000-3ba24c43b29d))
+      (stroke (width 0) (type solid)) (fill solid) (layer "F.Mask") (tstamp c9b247f5-0978-4600-903c-09b16c300318))
     (fp_poly
       (pts
         (xy 15.259442 -2.539621)
@@ -45716,7 +45626,7 @@
         (xy 14.537085 -2.639532)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "F.Mask") (tstamp c41d3c88-5cf2-4b6e-945e-dd52c0c65efd))
+      (stroke (width 0) (type solid)) (fill solid) (layer "F.Mask") (tstamp 6bd27666-d613-4093-975a-dc72ba0daf79))
     (fp_poly
       (pts
         (xy -10.186376 -2.554876)
@@ -45776,7 +45686,7 @@
         (xy -10.845948 -2.618829)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "F.Mask") (tstamp 34532e25-d586-4b85-b84b-96349a9cb3e5))
+      (stroke (width 0) (type solid)) (fill solid) (layer "F.Mask") (tstamp 5baa2acd-694e-44ee-870d-4e130785a2d8))
     (fp_poly
       (pts
         (xy 19.872167 -2.693939)
@@ -45843,7 +45753,7 @@
         (xy 19.230097 -2.757125)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "F.Mask") (tstamp 5ebdd965-ba64-4180-a234-e3a664141a7b))
+      (stroke (width 0) (type solid)) (fill solid) (layer "F.Mask") (tstamp 5579188b-9280-4204-9c04-cbb8721ab94b))
     (fp_poly
       (pts
         (xy -2.329603 -0.772723)
@@ -45915,7 +45825,7 @@
         (xy -2.329603 -4.539701)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "F.Mask") (tstamp 4618c606-738e-45b7-8801-d48d89a36fb7))
+      (stroke (width 0) (type solid)) (fill solid) (layer "F.Mask") (tstamp ac3d0ff3-6379-4bed-8c37-774f02b563ae))
     (fp_poly
       (pts
         (xy 38.350289 -2.679159)
@@ -45992,7 +45902,7 @@
         (xy 37.607534 -2.83026)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "F.Mask") (tstamp 9060ae0d-e0a2-4df0-9f3d-1ad08bbc870a))
+      (stroke (width 0) (type solid)) (fill solid) (layer "F.Mask") (tstamp 387b4d71-f4b2-476c-990a-f7641c12067b))
     (fp_poly
       (pts
         (xy 24.669209 -2.797142)
@@ -46072,7 +45982,7 @@
         (xy 23.970331 -2.821801)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "F.Mask") (tstamp 4402e00a-638e-40c7-9917-4ab160fcc82a))
+      (stroke (width 0) (type solid)) (fill solid) (layer "F.Mask") (tstamp 2972fa8b-9c01-466c-ad58-dc6db873c97f))
     (fp_poly
       (pts
         (xy 8.479058 -2.868871)
@@ -46156,7 +46066,7 @@
         (xy 8.421047 -2.958176)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "F.Mask") (tstamp 01efa762-c6c9-4b40-85cd-622a5a89796e))
+      (stroke (width 0) (type solid)) (fill solid) (layer "F.Mask") (tstamp a871aaa4-80f9-4bd6-93da-934af05bb2c0))
     (fp_poly
       (pts
         (xy -21.081137 -2.775908)
@@ -46245,7 +46155,7 @@
         (xy -21.158988 -2.874449)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "F.Mask") (tstamp 0d007a0d-48b5-4838-81f2-3dfa95b90ef8))
+      (stroke (width 0) (type solid)) (fill solid) (layer "F.Mask") (tstamp a55216c4-af15-45c1-b564-e78bdb51fef8))
     (fp_poly
       (pts
         (xy 29.741984 -2.83078)
@@ -46346,41 +46256,7 @@
         (xy 29.473571 -2.851826)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "F.Mask") (tstamp a55b465b-8f30-4212-8da6-1b73f79fad49))
-    (group "" (id 691000f7-2b6a-46af-911b-88de9f91fc23)
-      (members
-        003f2d02-a2f4-4158-ab84-58441fb2d8f7
-        0a86a417-0db7-4872-b687-df024ca11ac6
-        12bcc803-e175-41a3-9038-585a5fce6ed6
-        6af657c5-8f64-4c95-9b4f-8277dde83b88
-        82c25bfb-c6c8-4d7f-8687-3d5fac7ad0ae
-        aff589b4-0746-4d34-866d-a377b0f80bce
-        b59a0ad6-1b9d-4ae6-b34a-1f2f4e371c08
-        e419ab5e-5027-42e9-a031-120d0ddec652
-        e7295f1f-a336-4f5d-928c-24105668f8b4
-        ebab1c1a-fdfa-490b-bf80-17506b5d1ef1
-        f37d7b2c-bbeb-4c65-ac5f-6de722a6a46f
-        fc8b9ac3-b61d-4c0e-978b-0b0b55675f64
-        fe0b5a2e-d2ec-48dd-b757-ad92609d427e
-      )
-    )
-    (group "" (id 1434eff9-0f7e-48ee-9a8b-52ae86a42e45)
-      (members
-        01efa762-c6c9-4b40-85cd-622a5a89796e
-        0d007a0d-48b5-4838-81f2-3dfa95b90ef8
-        34532e25-d586-4b85-b84b-96349a9cb3e5
-        4402e00a-638e-40c7-9917-4ab160fcc82a
-        4618c606-738e-45b7-8801-d48d89a36fb7
-        5ebdd965-ba64-4180-a234-e3a664141a7b
-        74c0dd39-efd9-44b1-b15f-2d84b1c8db80
-        8b55931c-25ee-447f-9dd9-e564e5c0d4aa
-        9060ae0d-e0a2-4df0-9f3d-1ad08bbc870a
-        a55b465b-8f30-4212-8da6-1b73f79fad49
-        c41d3c88-5cf2-4b6e-945e-dd52c0c65efd
-        c788e498-9ee8-4fb7-a000-3ba24c43b29d
-        d288d8cc-e37d-4339-b110-d20e33f31893
-      )
-    )
+      (stroke (width 0) (type solid)) (fill solid) (layer "F.Mask") (tstamp 7c1a66fb-3b70-4778-a509-76d7e4621d61))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -46389,13 +46265,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_1_2" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 9853f7ac-24c1-4bde-a583-2cdf4829a62e)
+      (tstamp 9464820b-f9ed-4e0d-8734-a84a822fdc6c)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 2c307751-a978-4f21-83e7-e35802a4a7fc)
+      (tstamp f15af587-c42d-4bd9-9594-bc650cd889a7)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 75ea1e07-874f-4503-9b26-6acb48366ddb))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp fbd1eb33-f977-4f4d-93ee-880363757ae3))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -46404,13 +46280,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_6_4" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 8d27efe0-cea3-4ede-93cf-4c013ca67642)
+      (tstamp d61a2096-6bc2-4dc9-94ba-d51c64bffd07)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp a24caba3-76db-4a79-a542-e1088abe0283)
+      (tstamp 16bd7ba6-7436-449e-ad0f-0d72a0652361)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp b6d0f175-fc57-4080-9eb0-d166a0053c8a))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp bfb7227f-fac5-448d-92a9-dfb5e57b37ea))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -46419,13 +46295,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_10_4" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 582ce7f8-1499-4890-97ef-9b0019e58dff)
+      (tstamp 930a4b4b-d10a-4e89-8ec5-87c4a40da564)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp b2839658-8357-4737-abb0-c0f6c63ec5ff)
+      (tstamp a55a6282-0a90-4c8b-8ad8-fca102bf3f34)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 615411f4-c027-487d-935a-7ee9663b2e03))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp dc123c95-4ad5-4e36-8504-b1d17c891584))
   )
 
   (footprint "NPTH" (layer "F.Cu")
@@ -46434,13 +46310,13 @@
     (attr through_hole)
     (fp_text reference "KiKit_MB_7_2" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 24423d84-d45c-407d-a5f1-a7857bb7bba6)
+      (tstamp 497746c2-d857-47ee-9c20-d02058578a13)
     )
     (fp_text value "NPTH" (at 0 -0.5) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp b04f9357-730c-4aec-ba9d-9de73334cd0d)
+      (tstamp 268f733c-1a98-4039-808a-a6ecf305777f)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp 34df4442-dd80-4f52-85c5-863bcc689c5e))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "*.Mask") (tstamp f9162d0f-80eb-4c97-a685-4ff4117b68f6))
   )
 
   (footprint "Fiducial" (layer "B.Cu")
@@ -46780,8 +46656,6 @@
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp 09b9139b-16f2-4803-97ac-dacae6c43a0e))
   (gr_line (start 163.049541 88.692986) (end 163.103697 88.777671)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp 0a17c16c-db09-45da-9202-f1aea189f309))
-  (gr_line (start 370.452714 131.115937) (end 370.452714 131.115937)
-    (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp 0a222deb-33ff-4fa0-b36d-dc2b8b3c7289))
   (gr_line (start 161.838388 91.805877) (end 161.740082 91.826858)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp 0a511bd7-96b8-49ba-983d-2dd5f0a1431f))
   (gr_line (start 287.839403 40.932332) (end 287.316054 40.974166)
@@ -47074,7 +46948,7 @@
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp 14374ebf-a5e3-4303-b5eb-f08503d71803))
   (gr_line (start 352.774542 116.556029) (end 352.973287 116.163128)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp 1442cb08-8dc6-4f9b-af91-85213867fb21))
-  (gr_line (start 264.657743 33.454263) (end 264.657743 76.030801)
+  (gr_line (start 265.43 33.454263) (end 265.43 76.030801)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp 1450a6f5-ac0e-48ec-9ade-c7c9420d6500))
   (gr_line (start 277.218154 88.287216) (end 277.284237 88.362962)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp 14536b0b-f8fa-4029-adf5-9a32b5d8f70c))
@@ -48532,7 +48406,7 @@
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp 4237ebe5-ce1a-4fd3-95a1-554e8f017e07))
   (gr_line (start 280.921582 44.219837) (end 280.933983 44.319589)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp 423c7552-f343-49a3-bf8b-11794372092d))
-  (gr_line (start 264.657743 76.030801) (end 264.657743 131.115937)
+  (gr_line (start 265.43 76.030801) (end 265.43 131.115937)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp 42525721-ab02-4fc0-974e-978221b851d3))
   (gr_line (start 355.879486 117.363723) (end 356.786489 117.40495)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp 425a6945-4ef2-4fd5-850b-f9430feaf1b8))
@@ -49116,7 +48990,7 @@
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp 555b6118-f3fe-4df4-b8f6-cb8d799c1c2f))
   (gr_line (start 275.315835 93.704335) (end 275.517905 93.719478)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp 556593f0-34b3-4706-949b-efdbcdcddeee))
-  (gr_line (start 370.452714 70.950801) (end 351.384383 70.950801)
+  (gr_line (start 369.57 70.950801) (end 351.384383 70.950801)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp 557a140c-d313-42e9-a84e-2490c58b4bbd))
   (gr_line (start 274.403669 111.08321) (end 274.481814 111.019982)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp 558fb4be-1501-42ab-9050-d214ef921d80))
@@ -51830,7 +51704,7 @@
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp acadc080-142e-4911-9982-992a1382b58a))
   (gr_line (start 185.684834 94.714949) (end 186.20375 94.414455)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp acbfba3f-ee1f-4ab8-8d06-20ef44defb88))
-  (gr_line (start 264.657743 131.115937) (end 370.452714 131.115937)
+  (gr_line (start 265.43 131.115937) (end 369.57 131.115937)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp acdd3a18-1583-4010-85ee-6514afe0b0cf))
   (gr_line (start 329.456194 117.599067) (end 329.992761 117.376868)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp acfec1ba-6977-4e74-96c5-22819639e831))
@@ -52046,7 +51920,7 @@
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp b43e61d0-044b-4e7d-90a4-29a7b514b834))
   (gr_line (start 215.749171 108.482629) (end 215.418548 108.587857)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp b43f6eaf-28d9-4c90-b6d2-be2305b333dc))
-  (gr_line (start 351.384383 33.454263) (end 264.657743 33.454263)
+  (gr_line (start 351.384383 33.454263) (end 265.43 33.454263)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp b44ae1bb-ef9e-4581-bbe9-516341e437c5))
   (gr_line (start 274.348244 121.489403) (end 274.348244 122.429486)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp b460bede-c897-415f-9cf8-655bb6750b51))
@@ -52802,7 +52676,7 @@
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp caddaa62-c053-4f63-a2bc-aa1926b68ae2))
   (gr_line (start 315.753369 46.484165) (end 315.656889 46.455953)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp cae1db9f-ee60-4c97-b61b-faddcf24b4a6))
-  (gr_line (start 370.452714 131.115937) (end 370.452714 70.950801)
+  (gr_line (start 369.57 131.115937) (end 369.57 70.950801)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp cb121ca6-c380-4405-885a-594b50036bad))
   (gr_line (start 171.599448 116.990667) (end 171.652914 117.328449)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp cb153d3e-7355-423e-9030-b3eeae53b49f))
